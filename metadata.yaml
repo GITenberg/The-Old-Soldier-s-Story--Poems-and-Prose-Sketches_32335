@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/356
     wikipedia: http://en.wikipedia.org/wiki/James_Whitcomb_Riley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32335#The-Old-Soldier-s-Story--Poems-and-Prose-Sketches
 gutenberg_issued: '2010-05-11'
 gutenberg_type: Text
 identifiers:
